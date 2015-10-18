@@ -1,0 +1,16 @@
+{
+  "name": "palmettoflow-wzrd",
+  "version": "1.0.0",
+  "description": "This project is inspired from `wzrd` a browserify server that will automatically browserify your client code base as well as run a web server to serve static content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "palmettoflow-api-route": "^1.0.0",
+    "zero-config": "^7.0.1"
+  }
+}
